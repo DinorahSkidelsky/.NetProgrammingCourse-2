@@ -4,4 +4,4 @@
 
 2. Create a program to display numbers between 0 and 100 that are not divisible by 2. Use a While Loop.
 
-3. Create the function for exercise 1 called CalculateVAT, which must receive a numeric type parameter and return the Final value with VAT.
+3. Create the function for exercise 1 called CalcularIVA, which must receive a numeric type parameter and return the Final value with VAT.
